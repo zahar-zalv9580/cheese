@@ -7,10 +7,12 @@ header{
 }
 h1{
     text-align: center;
+    
 }
 .cheese{
     color: yellow;
     font-family: Georgia;
+    text-transform: uppercase;
 }
 nav a {
     text-decoration: none;
